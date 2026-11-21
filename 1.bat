@@ -1,0 +1,2 @@
+cls
+python Color_Space_Generator_App.py
